@@ -1,7 +1,7 @@
 {
   "name": "random-chucknorris-facts",
   "author": "Eduardo Bohrer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Random Chuck Norris facts em Português",
   "main": "RandomChuckNorrisFacts.js",
   "homepage": "https://github.com/nbluis/random-chucknorris-facts",
