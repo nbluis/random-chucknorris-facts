@@ -12,6 +12,7 @@
     "type": "git",
     "url": "http://github.com/nbluis/random-chucknorris-facts"
   },
+  "keywords": ["chuck norris", "chuck-norris", "chucknorris", "random", "facts"],
   "license": "MIT",
   "dependencies": {
     "iconv-lite": "*",
