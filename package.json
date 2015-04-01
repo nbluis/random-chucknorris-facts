@@ -1,12 +1,15 @@
 {
   "name": "random-chucknorris-facts",
   "author": "Eduardo Bohrer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random Chuck Norris facts em Português",
   "main": "RandomChuckNorrisFact.js",
   "homepage": "https://github.com/nbluis/random-chucknorris-facts",
   "bugs": {
     "url": "https://github.com/nbluis/random-chucknorris-facts/issues"
+  },
+  "bin": {
+    "random-chucknorris-fact": "./bin/random-chucknorris-fact.js"
   },
   "repository": {
     "type": "git",
