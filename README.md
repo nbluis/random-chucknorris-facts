@@ -1,5 +1,7 @@
 # Random Chuck Norris Facts em Português (pt_BR)
 
+[![Random Octodex Site](https://random-octodex.herokuapp.com/randomLocation)](https://random-octodex.herokuapp.com/random)
+
 ## Como utilizar
 Você pode utilizar o random-chucknorris-facts de duas formas.
 Como um comando de console (1) ou como um módulo acoplado ao seu projeto (2).
